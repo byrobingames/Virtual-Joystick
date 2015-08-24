@@ -33,3 +33,6 @@ installed.<br/>
 2) Close the “Settings” dialog.<br/>
 3) Save your game.<br/>
 4) Close and reopen the game. The will be now active.<br/>
+
+# Credits
+All credist to Abliblablobla which build this extension.
