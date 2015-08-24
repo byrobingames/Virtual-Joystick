@@ -35,4 +35,4 @@ installed.<br/>
 4) Close and reopen the game. The will be now active.<br/>
 
 # Credits
-All credist to Abliblablobla which build this extension.
+All credits to Abliblablobla which build this extension.
