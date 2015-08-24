@@ -3,6 +3,26 @@ Stencyl Virtual Joystick Extension
 
 Testgame: [Joystickgame](http://byrobingames.com/stencyl/joystick/Virtual%20Joystick%20Extension.swf)
 
+<object
+
+classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+
+codebase=" http://fpdownload.adobe.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" >
+
+<param name="movie" value="http://byrobingames.com/stencyl/joystick/Virtual%20Joystick%20Extension.swf">
+
+<param name="allowScriptAccess" value="always">
+
+<embed type="application/x-shockwave-flash"
+
+pluginspage="http://www.adobe.com/go/getflashplayer"
+
+href="http://otherdomain.com/exampleContent.swf"
+
+allowScriptAccess="always"></embed>
+
+</object> 
+
 # Wiki
 [Wiki how to](https://github.com/byrobingames/Virtual-Joystick/wiki)
 
